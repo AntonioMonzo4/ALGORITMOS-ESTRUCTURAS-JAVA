@@ -4,4 +4,6 @@
 
 -**AnyBaseToAnyBase** : cambia/convierte el sistema numérico del número pasado por el usuario a otro. 
 
--**BusquedaBinaria** : busqueda de una número en un array ordenado.
+-**BusquedaBinaria** : búsqueda de un número en un array ordenado.
+
+-**BubbleSort** : ordena de menor a mayor un array.
