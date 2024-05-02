@@ -23,6 +23,7 @@ public class BubbleSort {
         ordenarBurbuja(arrayN);
         mostrarArray(arrayN);
 
+        sc.close();
     }
 
     public static void ordenarBurbuja(int array[]) {
