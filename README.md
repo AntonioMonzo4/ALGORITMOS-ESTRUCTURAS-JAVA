@@ -7,3 +7,5 @@
 -**BusquedaBinaria** : búsqueda de un número en un array ordenado.
 
 -**BubbleSort** : ordena de menor a mayor un array.
+
+-**Palíndromo** : comprueba si un String es un palíndrimo de tres maneras distintas.
