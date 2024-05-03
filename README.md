@@ -1,4 +1,4 @@
-﻿# ALGORTIMOS-JAVA 🖥️
+﻿# ALGORITMOS-JAVA 🖥️
 
 **Distintos algoritmos en java que pueden resultar de utilidad**
 
