@@ -1,4 +1,4 @@
-﻿# ALGORTIMOS-JAVA
+﻿# ALGORTIMOS-JAVA 🖥️
 
 **Distintos algoritmos en java que pueden resultar de utilidad**
 
@@ -14,6 +14,6 @@
 
 
 
-# ESTRUTURAS DE DATOS
+# ESTRUTURAS DE DATOS 🏗️
 
 -**Nodo** : estrutura básica de cualquier árbol, colección...
