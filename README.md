@@ -10,7 +10,7 @@
 
 -**Palíndromo** : comprueba si un String es un palíndrimo de tres maneras distintas.
 
--**TriangulosPascal** : función que genera un Triangulo de Pascal. 
+
 
 
 
