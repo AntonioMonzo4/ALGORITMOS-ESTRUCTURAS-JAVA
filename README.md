@@ -9,3 +9,5 @@
 -**BubbleSort** : ordena de menor a mayor un array.
 
 -**Palíndromo** : comprueba si un String es un palíndrimo de tres maneras distintas.
+
+-**TriangulosPascal** : función que genera un Triangulo de Pascal. 
