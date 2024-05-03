@@ -14,6 +14,6 @@
 
 
 
-# ESTRUTURAS DE DATOS 🏗️
+# ESTRUCTURAS DE DATOS 🏗️
 
 -**Nodo** : estrutura básica de cualquier árbol, colección...
