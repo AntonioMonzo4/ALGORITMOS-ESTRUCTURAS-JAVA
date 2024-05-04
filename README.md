@@ -26,4 +26,4 @@
 
 # INTERFACES 🤖
 
--**Search** : interfaz de busqueda (comparator/find)
+-**Search** : interfaz de búsqueda (comparator/find)
