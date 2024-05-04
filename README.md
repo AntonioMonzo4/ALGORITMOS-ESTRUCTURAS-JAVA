@@ -19,3 +19,11 @@
 **Estrutura de datos en Java**
 
 -**Nodo** : estructura básica de cualquier árbol, colección...
+
+
+
+
+
+# INTERFACES 🤖
+
+-**Search** : interfaz de busqueda (comparator/find)
