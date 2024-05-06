@@ -20,10 +20,12 @@
 
 -**Nodo** : estructura básica de cualquier árbol, colección...
 
+-**Mapa** : clase abstract de la estrutura Mapa.
+
 
 
 
 
 # INTERFACES 🤖
 
--**Search** : interfaz de búsqueda (comparator/find)
+-**Search** : interfaz de búsqueda (comparator/find).
