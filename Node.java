@@ -2,10 +2,10 @@ public abstract class Node<E> {
 
     private E dato;
 
-    public Nodo() {
+    public Node() {
     }
 
-    public Nodo(E dato) {
+    public Node(E dato) {
         this.dato = dato;
     }
 
